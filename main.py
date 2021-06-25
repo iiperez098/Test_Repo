@@ -1,4 +1,6 @@
-def main():
-  print(" <Fintech-Workspace, Test_Repo>")
+def main(name):
+  print(name)
 
-  main()
+  main("Fintech")
+
+
